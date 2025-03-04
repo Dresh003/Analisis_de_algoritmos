@@ -1,0 +1,35 @@
+Prueba 1:
+n = 5
+Suma total: [5]
+Tiempo de ejecución en nanosegundos: [12631278400]
+Tiempo de ejecución en milisegundos: [12631.2784]
+
+Prueba 2:
+n = 10
+Suma total: [10]
+Tiempo de ejecución en nanosegundos: [21482155700]
+Tiempo de ejecución en milisegundos: [21482.1557]
+
+Prueba 3:
+n = 15
+Suma total: [127]
+Tiempo de ejecución en nanosegundos: [37230356200]
+Tiempo de ejecución en milisegundos: [37230.3562]
+
+Prueba 4:
+n = 20
+Suma total: [641]
+Tiempo de ejecución en nanosegundos: [53964029900]
+Tiempo de ejecución en milisegundos: [53964.0299]
+
+Prueba 5:
+n = 25
+Suma total: [325]
+Tiempo de ejecución en nanosegundos: [53537132400]
+Tiempo de ejecución en milisegundos: [53537.1324]
+
+Prueba 6:
+n = 30
+Suma total: [466]
+Tiempo de ejecución en nanosegundos: [68313335500]
+Tiempo de ejecución en milisegundos: [68313.3355]
